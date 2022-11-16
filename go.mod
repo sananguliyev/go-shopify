@@ -1,4 +1,4 @@
-module github.com/sananguliyev/go-shopify/v1
+module github.com/sananguliyev/go-shopify
 
 go 1.19
 
